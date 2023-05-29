@@ -1,1 +1,1 @@
-nota 1
+nota 1 este ejercicio sirve para probar los commits y verificar que el codigo se envia al repositorio remoto
